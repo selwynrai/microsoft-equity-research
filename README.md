@@ -30,19 +30,19 @@ My DCF indicates considerable downside from Microsoft’s market price on the va
 
 ### Model Cover
 
-![Microsoft valuation model cover](images/model-cover.png)
+![Microsoft valuation model cover](model-cover.png)
 
 ### DCF Forecast and Assumptions
 
-![Microsoft DCF forecast and assumptions](images/dcf-forecast.png)
+![Microsoft DCF forecast and assumptions](dcf-forecast.png)
 
 ### Valuation Summary
 
-![Microsoft valuation summary](images/dcf-valuation-summary.png)
+![Microsoft valuation summary](dcf-valuation-summary.png)
 
 ### Sensitivity Analysis
 
-![Microsoft sensitivity analysis](images/sensitivity-analysis.png)
+![Microsoft sensitivity analysis](sensitivity-analysis.png)
 
 ## Model Structure
 
