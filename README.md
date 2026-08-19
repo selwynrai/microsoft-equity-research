@@ -38,7 +38,7 @@ My DCF indicates considerable downside from Microsoft’s market price on the va
 
 ### Valuation Summary
 
-![Microsoft valuation summary](dcf-valuation-summary.png)
+![Microsoft valuation summary](dcf-valuation.png)
 
 ### Sensitivity Analysis
 
