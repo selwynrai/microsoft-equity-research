@@ -60,15 +60,7 @@ Historical financial information covers FY2023A to FY2025A, followed by a five-y
 
 ## Valuation Methodology
 
-I valued Microsoft using a five-year unlevered free cash flow DCF and a Gordon Growth terminal value.
-
-Unlevered free cash flow was calculated using:
-
-> UFCF = EBIT × (1 − Tax Rate) + Depreciation and Amortisation − Capital Expenditure − Change in Net Working Capital
-
-The present value of forecast UFCF and terminal value were combined to calculate enterprise value. Cash and short-term investments were then added and debt was deducted to calculate equity value.
-
-Equity value was divided by diluted shares outstanding to calculate the implied share price.
+I valued Microsoft using a five-year unlevered free cash flow DCF with a Gordon Growth terminal value. The model forecasts revenue, profitability, capital expenditure and working capital from FY2026E to FY2030E before calculating enterprise value, equity value and an implied share price.
 
 ## Investment Case
 
